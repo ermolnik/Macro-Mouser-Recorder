@@ -9,7 +9,7 @@
 [![Swift](https://img.shields.io/badge/Swift-5.9-orange?style=for-the-badge&logo=swift)](https://swift.org)
 [![SwiftUI](https://img.shields.io/badge/SwiftUI-Native-7B42BC?style=for-the-badge&logo=swift)](https://developer.apple.com/xcode/swiftui/)
 [![License](https://img.shields.io/badge/license-MIT-green?style=for-the-badge)](LICENSE)
-[![Stars](https://img.shields.io/github/stars/saermolaev/clicker?style=for-the-badge&color=yellow)](https://github.com/saermolaev/clicker/stargazers)
+[![Stars](https://img.shields.io/github/stars/ermolnik/Macro-Mouser-Recorder?style=for-the-badge&color=yellow)](https://github.com/ermolnik/Macro-Mouser-Recorder/stargazers)
 
 <p>
   <a href="#-download"><b>Download</b></a> ·
@@ -76,7 +76,7 @@ Designed for gamers, QA engineers, automation enthusiasts, accessibility users a
 
 ## ⬇️ Download
 
-Grab the latest signed `.dmg` from the [Releases page](https://github.com/saermolaev/clicker/releases/latest) or build it yourself in 30 seconds (see [Build from source](#-build-from-source)).
+Grab the latest signed `.dmg` from the [Releases page](https://github.com/ermolnik/Macro-Mouser-Recorder/releases/latest) or build it yourself in 30 seconds (see [Build from source](#-build-from-source)).
 
 ```bash
 # macOS 13 Ventura or newer · Intel & Apple Silicon
@@ -125,8 +125,8 @@ Clicker uses [XcodeGen](https://github.com/yonaskolb/XcodeGen) so the project fi
 brew install xcodegen
 
 # 2. Clone & generate
-git clone https://github.com/saermolaev/clicker.git
-cd clicker
+git clone https://github.com/ermolnik/Macro-Mouser-Recorder.git
+cd Macro-Mouser-Recorder
 xcodegen generate
 
 # 3. Open & run
@@ -215,7 +215,7 @@ Not in the UI yet — it's hard-coded as F8. Configurable hotkeys are on the roa
 - [ ] Export / import macros as `.clickermacro`
 - [ ] iCloud sync between Macs
 
-Have an idea? [Open an issue](https://github.com/saermolaev/clicker/issues/new).
+Have an idea? [Open an issue](https://github.com/ermolnik/Macro-Mouser-Recorder/issues/new).
 
 ---
 
@@ -246,8 +246,8 @@ Clicker is a general-purpose automation tool. **You are responsible** for how yo
 
 ### ⭐ If Clicker saves you time, please star the repo — it really helps!
 
-<a href="https://github.com/saermolaev/clicker">
-  <img src="https://img.shields.io/github/stars/saermolaev/clicker?style=social" alt="GitHub stars" />
+<a href="https://github.com/ermolnik/Macro-Mouser-Recorder">
+  <img src="https://img.shields.io/github/stars/ermolnik/Macro-Mouser-Recorder?style=social" alt="GitHub stars" />
 </a>
 
 <sub><b>Keywords:</b> macOS auto clicker · autoclicker for Mac · free auto clicker macOS · macro recorder Mac · click automation · mouse automation · keyboard macro · automation tool · SwiftUI app · open source autoclicker · M1 M2 M3 auto clicker · Apple Silicon · best free autoclicker mac · script recorder · UI automation · repeat clicks · auto typing mac</sub>
