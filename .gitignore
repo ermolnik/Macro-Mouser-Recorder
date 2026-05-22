@@ -6,3 +6,4 @@ xcuserdata/
 *.xcworkspace/xcuserdata/
 .swiftpm/
 Clicker.xcodeproj/
+.claude/
